@@ -10,8 +10,9 @@
 [link1](https://stackedit.io/editor)
 [link2][1], ![image](http://portal.koreatech.ac.kr/images/logo.png)
 
--10 categories
--i'm sleepy
+- 10 categories
+
+- i'm sleepy
 
 |I|want to|go home|
 |:--:|:------:|:----:|
