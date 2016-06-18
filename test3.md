@@ -138,7 +138,9 @@ if (savedInstanceState == null) {
          for (int i = 0; i < rawMsgs.length; i++) {
             msgs[i] = (NdefMessage) rawMsgs[i];
             showTag(msgs[i]); // showTag 메소드 호출
-         } } }
+         }
+      }
+   }
 ```
 ```
 // NFC 태그 정보를 읽어들이는 메소드
@@ -192,6 +194,8 @@ int Room_number_search() {
 int Seat_number_search() {
    for(int i = 0; i < 72; i++) {
       if(Get_SeatNumber = i)
-         code = code + i; } }
+         code = code + i;
+   }
+}
 ```
 
